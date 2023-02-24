@@ -3,4 +3,3 @@ Pillow
 pandas
 numpy
 matplotlib
-math
